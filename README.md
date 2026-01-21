@@ -8,6 +8,8 @@ The page loads Airbnb listing data from a JSON file and displays the first 50 li
 ## Live Site (GitHub Pages)
 https://zihanguo1204.github.io/airbnb-listings-dom/
 
+GitHub Pages (Live site): https://zihanguo1204.github.io/airbnb-listings-dom/
+
 ## What the Page Does
 - Loads listing data from a local JSON file using `fetch`
 - Displays the first 50 Airbnb listings
